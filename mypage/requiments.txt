@@ -1,1 +1,1 @@
-postgresql==10.23
+postgresql==11
